@@ -1,0 +1,13 @@
+### Listar produtos
+GET https://localhost:7050/api/produto/listar
+
+### Buscar produtos
+GET https://localhost:7050/api/produto/buscar/Arroz
+
+### Cadastrar
+POST https://localhost:7050/api/produto/cadastrar
+Content-Type: application/json
+
+{
+    "nome" : "Arroz"
+}
