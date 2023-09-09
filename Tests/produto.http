@@ -9,5 +9,5 @@ POST https://localhost:7050/api/produto/cadastrar
 Content-Type: application/json
 
 {
-    "nome" : "Arroz"
+    "nome" : "Macarrão"
 }
